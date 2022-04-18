@@ -39,7 +39,7 @@ $ git clone https://github.com/cbvreis/XGBoost_COVID.git
 pip install -r requirements.txt
 
 # Entrar no diretorio **XGBoost_COVID**
-$ cd Book_Data-Science-Projects-with-Python-P
+$ cd XGBoost_COVID
 # Entrar no diretorio **notebook**
 $ cd notebook
 
